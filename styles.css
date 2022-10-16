@@ -1,0 +1,18 @@
+.btn {
+    background: #ffcc00;
+    background-image: -webkit-linear-gradient(top, #ffcc00, #ffcc00);
+    background-image: -moz-linear-gradient(top, #ffcc00, #ffcc00);
+    background-image: -ms-linear-gradient(top, #ffcc00, #ffcc00);
+    background-image: -o-linear-gradient(top, #ffcc00, #ffcc00);
+    background-image: linear-gradient(to bottom, #ffcc00, #ffcc00);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+
